@@ -1,8 +1,8 @@
 # Python-SEO
-1. Copy your keywords from keywordshitter.com in a .txt: 
+1. Copy your keywords from keywordshitter.com in a .txt
 2. Execute Code
 3. Get a .csv file
-4. Open your .csv file in Google Sheets.
+4. Open your .csv file in Google Sheets
 5. Get this: https://imgur.com/a/L1r1mu1
 
 Example: 
