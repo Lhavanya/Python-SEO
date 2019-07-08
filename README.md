@@ -1,5 +1,5 @@
 # Python-SEO
-1. Copy your keywords from keywordshitter.com in a .txt
+1. Copy your keywords from https://keywordshitter.com/ in a .txt
 2. Execute Code
 3. Get a .csv file
 4. Open your .csv file in Google Sheets
