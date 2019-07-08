@@ -1,7 +1,7 @@
 import re
 import csv
 
-myFile = open('prueba.txt', 'r')
+myFile = open('keywords.txt', 'r')
 
 yourResult = [line.split('[') for line in myFile.readlines()]
 
@@ -13,7 +13,7 @@ for line in range(len(yourResult)):
      yourResult[line][1] = yourResult[line][1].split('/', 1)[0].replace(".","")
 
 
-with open("prueba.csv", "w", newline="") as f:
+with open("keywords.csv", "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerows(yourResult)
 
