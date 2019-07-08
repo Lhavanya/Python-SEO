@@ -17,7 +17,5 @@ with open("out.csv", "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerows(yourResult)
 print("hi23")
-asdasd
 
-as
-dadasd
+
