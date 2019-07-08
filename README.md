@@ -19,7 +19,9 @@ Code does:
 It export to a file .csv in two columns:
 Keyword and Search Volume per Month
 
+- Go to https://keywordshitter.com/
 - Install Keywords Everywhere - Keyword Tool
 - Copy KW's at this format: 
+
 
 historietas de amor [32.800/mo - $0.14 - 0.04]
